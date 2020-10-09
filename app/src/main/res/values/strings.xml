@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon Compose</string>
+    <string name="title_activity_compose">Configurable Compose</string>
+
+    <string name="menu_grid">Grid</string>
+    <string name="menu_card">Card</string>
+    <string name="menu_list">List</string>
+</resources>
